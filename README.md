@@ -1,3 +1,1 @@
-this is redux learning page this is notes where we refer again the page
-
-git reference 
+this is redux learning page which is ues small redux component to created increament and decrement 
